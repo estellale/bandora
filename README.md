@@ -1,5 +1,8 @@
 
-# rowaida_s_application3
+
+![Screenshot 2023-12-26 035643](https://github.com/estellale/bandora/assets/90506964/930fd6dd-c29b-46cc-ab96-416d4d9cb858)
+
+
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
