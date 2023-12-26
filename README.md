@@ -1,4 +1,4 @@
-# Timer To stay focus , Using Pomodoro Technicqe 
+# Bandora App
 
 ![Screenshot 2023-12-26 035643](https://github.com/estellale/bandora/assets/90506964/930fd6dd-c29b-46cc-ab96-416d4d9cb858)
 
